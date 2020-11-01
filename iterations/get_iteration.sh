@@ -4,4 +4,4 @@
 
 /Applications/Google\ Chrome.app/Contents/MacOS/Google\ Chrome --headless --disable-gpu --screenshot --window-size=412,732 https://airbr.github.io/onefile/;
 
-mv screenshot.png screenshot_$(date +%d-%m-%Y).png;
+mv screenshot.png screenshot_$(date +%F-%H:%M).png;
