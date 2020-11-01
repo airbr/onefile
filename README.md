@@ -17,10 +17,18 @@ Courtesy of Tachyons, it doesnt start much more templateish than this:
 </html>
 ```
 
-everything I intend to add builds upon this. 
+everything I intend to add builds upon this.
+
+iterations will be added now and then. Iterations are screenshots of how the sight looked on mobile
 
 Ideas:
 
 Build a single page website a day with tachyons components. 
+
 Go wild on a theme, starting with Halloween?
-Integrations with other services
+
+Learn about the challenges web developers face by trying my hand at my own hacky implementation.
+
+programming ideas:
+
+Try generating templates with tachyons. 
