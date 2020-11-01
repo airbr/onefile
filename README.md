@@ -21,7 +21,6 @@ everything I intend to add builds upon this.
 
 Ideas:
 
-Build a single page website a day with tachyons
-
+Build a single page website a day with tachyons components. 
 Go wild on a theme, starting with Halloween?
-
+Integrations with other services
