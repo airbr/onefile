@@ -1,9 +1,7 @@
 # onefile
 separation of concerns? none of your concern!
 
-An evolution of ideas and practices . Really just playing around with one file.
-
-Courtesy of Tachyons, it doesnt start much more templateish than this:
+just playing around with one file and Tachyons :)
 
 ```
 <!DOCTYPE html>
@@ -19,16 +17,15 @@ Courtesy of Tachyons, it doesnt start much more templateish than this:
 
 everything I intend to add builds upon this.
 
-iterations will be added now and then. Iterations are screenshots of how the sight looked on mobile
+iterations will be added now and then. Iterations are screenshots of how the sight looked on mobile, Ill figure something out as I go about tagging or marking different releases.
 
 Ideas:
 
 Build a single page website a day with tachyons components. 
-
 Go wild on a theme, starting with Halloween?
-
 Learn about the challenges web developers face by trying my hand at my own hacky implementation.
-
 programming ideas:
-
 Try generating templates with tachyons. 
+Make an article about one file philosophy
+
+-
